@@ -39,7 +39,7 @@ function Child() {
 
   return (
     <div class="container">
-      <h1 class="text-center">Expense Tracker</h1>
+      <h1 class="text-center">Expense Tracker by Fahad Afzal</h1>
 
       <h3>
         YOUR BALANCE <br /> Rs. {getIncome() + getExpense()}
